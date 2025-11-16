@@ -78,7 +78,7 @@ const Header = () => {
                                 <h2 className="text-primary text-xl">Call Us:</h2>
                                 <p className={`text-base
                                     ${witText ? "text-neutralLight" : currentPath === '/' ? "text-neutralLight" : "text-accent"}
-                                    `}>+234 816 9537 714</p>
+                                    `}>+234 816 831 8983</p>
                             </div>
                         </div>
                         <div className="w-max h-max flex items-center">

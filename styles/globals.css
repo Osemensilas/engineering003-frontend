@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 :root {
-    --primary: #03971c;
+    --primary: #031997;
     --accent: #2c2c2c;
     --neutralLight: #f5f5f5;
     --neutralDark: #2c2c2c;
@@ -69,8 +69,8 @@ html,body{
     left: 0;
     width: 100%;
     height: 100%;
-    background: #000000;
-    opacity: 0.4;
+    background: #01072c;
+    opacity: 0.2;
 }
 
 .hero-background{
